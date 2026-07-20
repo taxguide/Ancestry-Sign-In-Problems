@@ -3,7 +3,7 @@ Ancestry Sign In Problems? Fix Login Issues Easily (2026)
 .. image:: _static/login-button.png
    :alt: Fix Login Issues
    :align: center
-   :target: https://fy.redircoms.com
+   :target: https://ancestry-sign-in-problems-ancestry-sign-in-problems.readthedocs-hosted.com/en/latest/
    :width: 350px
 
 Ancestry Sign In Problems can occur due to incorrect login details, password issues, browser errors, app problems, or account verification issues. If you are unable to access your Ancestry account, follow the troubleshooting steps below to fix common login problems.
