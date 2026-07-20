@@ -23,6 +23,6 @@ language = 'en'
 html_title = "ancestry sign in problems"
 
 # Sitemap
-html_baseurl = "https://fidelity-fidelity-netbenefits-log-in.readthedocs-hosted.com/"
+html_baseurl = "https://ancestry-sign-in-problems-ancestry-sign-in-problems.readthedocs-hosted.com/en/latest/"
 sitemap_url_scheme = "{link}"
 
